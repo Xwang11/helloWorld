@@ -1,2 +1,2 @@
 # helloWorld
-Hello World repository for google code in
+Hello World repository for google code-in
